@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: d7a0a9ca7a544c04bb6dd69a5f7c9f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3101240246366942998
+    second: Tiliset_Snow_0
+  - first:
+      213: 4615219339810327701
+    second: Tiliset_Snow_1
+  - first:
+      213: 2591690077492710166
+    second: Tiliset_Snow_2
+  - first:
+      213: 5279602523597326202
+    second: Tiliset_Snow_3
+  - first:
+      213: -6783599939740479012
+    second: Tiliset_Snow_4
+  - first:
+      213: -587524218266301148
+    second: Tiliset_Snow_5
+  - first:
+      213: -2964441365872580194
+    second: Tiliset_Snow_6
+  - first:
+      213: 5754333875032213420
+    second: Tiliset_Snow_7
+  - first:
+      213: 7452909821081782997
+    second: Tiliset_Snow_8
+  - first:
+      213: -780765505378164069
+    second: Tiliset_Snow_9
+  - first:
+      213: -8391379484634516051
+    second: Tiliset_Snow_10
+  - first:
+      213: 5526937308990669774
+    second: Tiliset_Snow_11
+  - first:
+      213: -497493591664410673
+    second: Tiliset_Snow_12
+  - first:
+      213: 3230072807223635769
+    second: Tiliset_Snow_13
+  - first:
+      213: -7932976854208485122
+    second: Tiliset_Snow_14
+  - first:
+      213: -1089386792501127194
+    second: Tiliset_Snow_15
+  - first:
+      213: 6060925426041575687
+    second: Tiliset_Snow_16
+  - first:
+      213: -8841770709758121506
+    second: Tiliset_Snow_17
+  - first:
+      213: 8055016925747227071
+    second: Tiliset_Snow_18
+  - first:
+      213: -7092128290338587377
+    second: Tiliset_Snow_19
+  - first:
+      213: -1798280213015103583
+    second: Tiliset_Snow_20
+  - first:
+      213: -369437730697825433
+    second: Tiliset_Snow_21
+  - first:
+      213: 826136712089574300
+    second: Tiliset_Snow_22
+  - first:
+      213: -903480422619166600
+    second: Tiliset_Snow_23
+  - first:
+      213: -8607364259060898141
+    second: Tiliset_Snow_24
+  - first:
+      213: 8707289471168985741
+    second: Tiliset_Snow_25
+  - first:
+      213: 3582040054339955773
+    second: Tiliset_Snow_26
+  - first:
+      213: -4807344395624330820
+    second: Tiliset_Snow_27
+  - first:
+      213: -7652052273690795070
+    second: Tiliset_Snow_28
+  - first:
+      213: -1866223633495848210
+    second: Tiliset_Snow_29
+  - first:
+      213: -4941952528110060813
+    second: Tiliset_Snow_30
+  - first:
+      213: 5461951189123791723
+    second: Tiliset_Snow_31
+  - first:
+      213: 7510655395738909537
+    second: Tiliset_Snow_32
+  - first:
+      213: 4377831186003005623
+    second: Tiliset_Snow_33
+  - first:
+      213: 5327102161252925610
+    second: Tiliset_Snow_34
+  - first:
+      213: -6046132459801126033
+    second: Tiliset_Snow_35
+  - first:
+      213: -8170990433013697780
+    second: Tiliset_Snow_36
+  - first:
+      213: -391382879095329655
+    second: Tiliset_Snow_37
+  - first:
+      213: 2784293642661804104
+    second: Tiliset_Snow_38
+  - first:
+      213: 159129853900402380
+    second: Tiliset_Snow_39
+  - first:
+      213: 7142758870626345648
+    second: Tiliset_Snow_40
+  - first:
+      213: 1937631636599284435
+    second: Tiliset_Snow_41
+  - first:
+      213: 298312937610752317
+    second: Tiliset_Snow_42
+  - first:
+      213: 3380869423107583009
+    second: Tiliset_Snow_43
+  - first:
+      213: 1708635887125931557
+    second: Tiliset_Snow_44
+  - first:
+      213: 8213296699458185795
+    second: Tiliset_Snow_45
+  - first:
+      213: 5931588243454089079
+    second: Tiliset_Snow_46
+  - first:
+      213: 111648103301340810
+    second: Tiliset_Snow_47
+  - first:
+      213: 3297608559358604649
+    second: Tiliset_Snow_48
+  - first:
+      213: 6052110772816374397
+    second: Tiliset_Snow_49
+  - first:
+      213: -7854307359388703692
+    second: Tiliset_Snow_50
+  - first:
+      213: 3293209797180187633
+    second: Tiliset_Snow_51
+  - first:
+      213: 1724764457246488425
+    second: Tiliset_Snow_52
+  - first:
+      213: -8756580491423659686
+    second: Tiliset_Snow_53
+  - first:
+      213: -5575336084212400047
+    second: Tiliset_Snow_54
+  - first:
+      213: -3111400459548304823
+    second: Tiliset_Snow_55
+  - first:
+      213: -1463787269904012284
+    second: Tiliset_Snow_56
+  - first:
+      213: 3907808558774761699
+    second: Tiliset_Snow_57
+  - first:
+      213: 7835389559380484506
+    second: Tiliset_Snow_58
+  - first:
+      213: 6889534046369977282
+    second: Tiliset_Snow_59
+  - first:
+      213: 177006690970853245
+    second: Tiliset_Snow_60
+  - first:
+      213: 5810043307646120095
+    second: Tiliset_Snow_61
+  - first:
+      213: 7811181130908535436
+    second: Tiliset_Snow_62
+  - first:
+      213: 23485909251142675
+    second: Tiliset_Snow_63
+  - first:
+      213: 6900776616341610623
+    second: Tiliset_Snow_64
+  - first:
+      213: 8922219376426003393
+    second: Tiliset_Snow_65
+  - first:
+      213: 5143752860263716795
+    second: Tiliset_Snow_66
+  - first:
+      213: -1869086215740574359
+    second: Tiliset_Snow_67
+  - first:
+      213: -8136223489151011429
+    second: Tiliset_Snow_68
+  - first:
+      213: 6202566548788588715
+    second: Tiliset_Snow_69
+  - first:
+      213: -8860057717158362380
+    second: Tiliset_Snow_70
+  - first:
+      213: -6230173392535087903
+    second: Tiliset_Snow_71
+  - first:
+      213: -6507591006727114698
+    second: Tiliset_Snow_72
+  - first:
+      213: -4560918699589138196
+    second: Tiliset_Snow_73
+  - first:
+      213: -4175880657607205927
+    second: Tiliset_Snow_74
+  - first:
+      213: 552994093623759921
+    second: Tiliset_Snow_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiliset_Snow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae847205d6e26f4d0800000000000000
+      internalID: -3101240246366942998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c48ed798d8c0040800000000000000
+      internalID: 4615219339810327701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b8bd4e46887f320800000000000000
+      internalID: 2591690077492710166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77464ec58ae44940800000000000000
+      internalID: 5279602523597326202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1586dbbcfcbd1a0800000000000000
+      internalID: -6783599939740479012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d4c4916d1b8d7f0800000000000000
+      internalID: -587524218266301148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99e0b5b8403cd6d0800000000000000
+      internalID: -2964441365872580194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ca4ceb208bdf40800000000000000
+      internalID: 5754333875032213420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da899cbefd0e6760800000000000000
+      internalID: 7452909821081782997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 287
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926e07d8e92a25f0800000000000000
+      internalID: -780765505378164069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5fbd271d4db8b80800000000000000
+      internalID: -8391379484634516051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30e361330a3bc40800000000000000
+      internalID: 5526937308990669774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf3fc6d63c8819f0800000000000000
+      internalID: -497493591664410673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fa631ca1683dc20800000000000000
+      internalID: 3230072807223635769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e181f49768e190800000000000000
+      internalID: -7932976854208485122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d7f9eb78b1e0f0800000000000000
+      internalID: -1089386792501127194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7095755109bbc1450800000000000000
+      internalID: 6060925426041575687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e96b9268bb4580800000000000000
+      internalID: -8841770709758121506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb92ce6773b29cf60800000000000000
+      internalID: 8055016925747227071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dbed845e2b39d90800000000000000
+      internalID: -7092128290338587377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7fe988ca93b07e0800000000000000
+      internalID: -1798280213015103583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 239
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763312f575e7fdaf0800000000000000
+      internalID: -369437730697825433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b120c66f6077b00800000000000000
+      internalID: 826136712089574300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_23
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c34ca7513673f0800000000000000
+      internalID: -903480422619166600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a628466fcf7c8880800000000000000
+      internalID: -8607364259060898141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab68d04a186d870800000000000000
+      internalID: 8707289471168985741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c67227376f5b130800000000000000
+      internalID: 3582040054339955773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c8d91eb1e84db0800000000000000
+      internalID: -4807344395624330820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a0f7dff27ec590800000000000000
+      internalID: -7652052273690795070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea8a063e77d916e0800000000000000
+      internalID: -1866223633495848210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faf729fb58aa6bb0800000000000000
+      internalID: -4941952528110060813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bfe38faafbccb40800000000000000
+      internalID: 5461951189123791723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b736d0a453b3860800000000000000
+      internalID: 7510655395738909537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01658d44e21cc30800000000000000
+      internalID: 4377831186003005623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa042b3013bade940800000000000000
+      internalID: 5327102161252925610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5894cf82d71ca0800000000000000
+      internalID: -6046132459801126033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037a113e7fca9e80800000000000000
+      internalID: -8170990433013697780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c6a585857819af0800000000000000
+      internalID: -391382879095329655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483c31f05cc3a620800000000000000
+      internalID: 2784293642661804104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea4ee42c7553200800000000000000
+      internalID: 159129853900402380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b224ff495d202360800000000000000
+      internalID: 7142758870626345648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d22f0d15b9d3ea10800000000000000
+      internalID: 1937631636599284435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3131364902d32400800000000000000
+      internalID: 298312937610752317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cae44e3d24bee20800000000000000
+      internalID: 3380869423107583009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52620ae594b46b710800000000000000
+      internalID: 1708635887125931557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ae71e05dd7bf170800000000000000
+      internalID: 8213296699458185795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d6fc941c315250800000000000000
+      internalID: 5931588243454089079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5f11cb57ac8100800000000000000
+      internalID: 111648103301340810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657bd4638573cd20800000000000000
+      internalID: 3297608559358604649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ae803beaa6df350800000000000000
+      internalID: 6052110772816374397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43466ee0215eff290800000000000000
+      internalID: -7854307359388703692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 95
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e2c3ccd4d3bd20800000000000000
+      internalID: 3293209797180187633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 95
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967756bb2289fe710800000000000000
+      internalID: 1724764457246488425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59c399ff606a7680800000000000000
+      internalID: -8756580491423659686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504a1dee5d60a2b0800000000000000
+      internalID: -5575336084212400047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ad2a654c512d4d0800000000000000
+      internalID: -3111400459548304823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce1a6cb359fabe0800000000000000
+      internalID: -1463787269904012284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e830040e235b3630800000000000000
+      internalID: 3907808558774761699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ada36a45ecbc60800000000000000
+      internalID: 7835389559380484506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c397dd76ba8c9f50800000000000000
+      internalID: 6889534046369977282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f5f2ac5aad47200800000000000000
+      internalID: 177006690970853245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f1e9fa9b61a050800000000000000
+      internalID: 5810043307646120095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 47
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a89086ad3e66c60800000000000000
+      internalID: 7811181130908535436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_63
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314342e5f40735000800000000000000
+      internalID: 23485909251142675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_64
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f702d5b45cb74cf50800000000000000
+      internalID: 6900776616341610623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_65
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 47
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbaafb304712db70800000000000000
+      internalID: 8922219376426003393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb71b6049f7426740800000000000000
+      internalID: 5143752860263716795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_67
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96534385dfbaf06e0800000000000000
+      internalID: -1869086215740574359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f6fb18d3561f80800000000000000
+      internalID: -8136223489151011429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b34cd961f31650800000000000000
+      internalID: 6202566548788588715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24157e270ca0580800000000000000
+      internalID: -8860057717158362380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e41bd0fe4af989a0800000000000000
+      internalID: -6230173392535087903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_72
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f084457460b5a0800000000000000
+      internalID: -6507591006727114698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88d858b9c54b0c0800000000000000
+      internalID: -4560918699589138196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd5eaaaaa4c06c0800000000000000
+      internalID: -4175880657607205927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiliset_Snow_75
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345551c231aca700800000000000000
+      internalID: 552994093623759921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tiliset_Snow_0: -3101240246366942998
+      Tiliset_Snow_1: 4615219339810327701
+      Tiliset_Snow_10: -8391379484634516051
+      Tiliset_Snow_11: 5526937308990669774
+      Tiliset_Snow_12: -497493591664410673
+      Tiliset_Snow_13: 3230072807223635769
+      Tiliset_Snow_14: -7932976854208485122
+      Tiliset_Snow_15: -1089386792501127194
+      Tiliset_Snow_16: 6060925426041575687
+      Tiliset_Snow_17: -8841770709758121506
+      Tiliset_Snow_18: 8055016925747227071
+      Tiliset_Snow_19: -7092128290338587377
+      Tiliset_Snow_2: 2591690077492710166
+      Tiliset_Snow_20: -1798280213015103583
+      Tiliset_Snow_21: -369437730697825433
+      Tiliset_Snow_22: 826136712089574300
+      Tiliset_Snow_23: -903480422619166600
+      Tiliset_Snow_24: -8607364259060898141
+      Tiliset_Snow_25: 8707289471168985741
+      Tiliset_Snow_26: 3582040054339955773
+      Tiliset_Snow_27: -4807344395624330820
+      Tiliset_Snow_28: -7652052273690795070
+      Tiliset_Snow_29: -1866223633495848210
+      Tiliset_Snow_3: 5279602523597326202
+      Tiliset_Snow_30: -4941952528110060813
+      Tiliset_Snow_31: 5461951189123791723
+      Tiliset_Snow_32: 7510655395738909537
+      Tiliset_Snow_33: 4377831186003005623
+      Tiliset_Snow_34: 5327102161252925610
+      Tiliset_Snow_35: -6046132459801126033
+      Tiliset_Snow_36: -8170990433013697780
+      Tiliset_Snow_37: -391382879095329655
+      Tiliset_Snow_38: 2784293642661804104
+      Tiliset_Snow_39: 159129853900402380
+      Tiliset_Snow_4: -6783599939740479012
+      Tiliset_Snow_40: 7142758870626345648
+      Tiliset_Snow_41: 1937631636599284435
+      Tiliset_Snow_42: 298312937610752317
+      Tiliset_Snow_43: 3380869423107583009
+      Tiliset_Snow_44: 1708635887125931557
+      Tiliset_Snow_45: 8213296699458185795
+      Tiliset_Snow_46: 5931588243454089079
+      Tiliset_Snow_47: 111648103301340810
+      Tiliset_Snow_48: 3297608559358604649
+      Tiliset_Snow_49: 6052110772816374397
+      Tiliset_Snow_5: -587524218266301148
+      Tiliset_Snow_50: -7854307359388703692
+      Tiliset_Snow_51: 3293209797180187633
+      Tiliset_Snow_52: 1724764457246488425
+      Tiliset_Snow_53: -8756580491423659686
+      Tiliset_Snow_54: -5575336084212400047
+      Tiliset_Snow_55: -3111400459548304823
+      Tiliset_Snow_56: -1463787269904012284
+      Tiliset_Snow_57: 3907808558774761699
+      Tiliset_Snow_58: 7835389559380484506
+      Tiliset_Snow_59: 6889534046369977282
+      Tiliset_Snow_6: -2964441365872580194
+      Tiliset_Snow_60: 177006690970853245
+      Tiliset_Snow_61: 5810043307646120095
+      Tiliset_Snow_62: 7811181130908535436
+      Tiliset_Snow_63: 23485909251142675
+      Tiliset_Snow_64: 6900776616341610623
+      Tiliset_Snow_65: 8922219376426003393
+      Tiliset_Snow_66: 5143752860263716795
+      Tiliset_Snow_67: -1869086215740574359
+      Tiliset_Snow_68: -8136223489151011429
+      Tiliset_Snow_69: 6202566548788588715
+      Tiliset_Snow_7: 5754333875032213420
+      Tiliset_Snow_70: -8860057717158362380
+      Tiliset_Snow_71: -6230173392535087903
+      Tiliset_Snow_72: -6507591006727114698
+      Tiliset_Snow_73: -4560918699589138196
+      Tiliset_Snow_74: -4175880657607205927
+      Tiliset_Snow_75: 552994093623759921
+      Tiliset_Snow_8: 7452909821081782997
+      Tiliset_Snow_9: -780765505378164069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
